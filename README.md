@@ -2,6 +2,11 @@
 
 ## TRI AI Saturdays — Cohort 10 | Team Hwange
 
+### Participants
+- Birhanu Simachew
+- Semere Herruy
+- Gebrhans Weldegebriel
+
 This project investigates whether toxic language can be detected **before a language model generates its final output** by probing the hidden representations of a modern Large Language Model (LLM).
 
 Rather than relying only on surface-level text classifiers or post-generation moderation, we examine where toxicity-related information becomes linearly accessible inside the model's hidden layers.
