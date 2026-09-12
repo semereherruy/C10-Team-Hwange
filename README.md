@@ -140,3 +140,26 @@ Layer-Wise Evaluation
      │
      ▼
 Toxicity Detection Analysis
+
+
+## Results
+
+### Where does toxicity information become linearly accessible?
+
+![Toxicity Probe F1 Performance Across Gemma Layers](assets/f1_across_layers.png)
+
+### ROC-AUC Across Layers
+
+![Toxicity Probe ROC-AUC Across Gemma Layers](assets/roc_auc_across_layers.png)
+
+### Performance Across Languages
+
+![Latent Probe Performance by Language](assets/performance_by_language.png)
+
+### Comparison with TF-IDF Baselines
+
+![Latent Probe vs TF-IDF Baselines](assets/probe_vs_tfidf.png)
+
+### Language-Level Diagnostic
+
+![False-Positive Rate by Language](assets/false_positive_rate.png)
